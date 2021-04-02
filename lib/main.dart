@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
     0: 'Legs: Lunge/Squat',
     1: 'Chest: Push-Ups',
     2: 'Abs: Sit-Ups/V-Ups',
-    3: 'Poster Chain: Bridges',
+    3: 'Posterior: Bridges',
     4: 'Rest: Keep Moving'
   };
 
